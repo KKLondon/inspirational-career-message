@@ -41,3 +41,4 @@ This project can easily be extended by:
 - Turning it into a simple daily motivation tool that updates automatically
 - Creating a version with a graphical interface (GUI) for a more interactive experience
 - Building a web-based version where users can get a personalised message online
+_updated by kklondon_
